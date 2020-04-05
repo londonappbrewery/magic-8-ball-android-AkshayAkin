@@ -36,6 +36,7 @@
             android:id="@+id/app_Image"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:contentDescription="@string/app_name"
             app:srcCompat="@drawable/ball1" />
     </RelativeLayout>
 
